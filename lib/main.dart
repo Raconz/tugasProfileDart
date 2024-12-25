@@ -42,7 +42,7 @@ class ProfileContent extends StatelessWidget {
             padding: EdgeInsets.only(bottom: 20.0),
             child: Column(
               children: [
-                Text('Profile', 
+                Text('Hobi', 
                 textAlign: TextAlign.center, 
                 style: TextStyle(fontWeight: FontWeight.bold)),
                 const SizedBox(height: 10),
